@@ -98,7 +98,7 @@ class Personaje():
     def interfaz(self):
         i = 0
         while True:
-            print("Prueba git del creador de personaje...")
+            print("Prueba git del creador de personaje...g")
             print("""\n=== Bienvenido al creador de personajes humanos y orcos ===\n
                 ¿Qué deseas hacer?\n
                 1) Crear un personaje
